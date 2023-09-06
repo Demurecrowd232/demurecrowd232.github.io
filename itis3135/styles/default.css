@@ -17,7 +17,9 @@ a{
 img{
    max-width: 100%;
     height: auto;
+    margin:auto;
     padding: auto;
+    align-items: center;
     border: solid 2px black;
 }
 figcaption{
