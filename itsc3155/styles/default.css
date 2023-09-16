@@ -1,0 +1,27 @@
+h1, a, h2, figcaption, ul{
+    font-family: sans-serif;
+}
+
+
+body {
+    background-color:darkgray
+}
+
+a{
+    color: purple;
+}
+
+.center{
+    text-align: center;
+}
+img{
+   max-width: 100%;
+    height: auto;
+    margin:auto;
+    padding: auto;
+    align-items: center;
+    border: solid 2px black;
+}
+figcaption{
+    font-style: italic;
+}
