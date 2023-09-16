@@ -25,3 +25,6 @@ img{
 figcaption{
     font-style: italic;
 }
+.extraPadding{
+    padding: 30px;
+}
