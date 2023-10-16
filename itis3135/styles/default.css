@@ -3,6 +3,13 @@
     h1, a, h2, figcaption, ul{
         font-family: sans-serif;
     }
+    h3, p{
+        font-family: sans-serif;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 5px;
+        color: floralwhite;
+    }
     
     
     body {
@@ -37,6 +44,13 @@
         font-family: sans-serif;
         color:floralwhite
     }
+    h3, p{
+        font-family: sans-serif;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 5px;
+        color: floralwhite;
+    }
     
     
     body {
@@ -54,7 +68,7 @@
     }
     img{
         display: block;
-       max-width: 50%;
+        max-width: 50%;
         height: auto;
         margin-left: auto;
         margin-right: auto;
